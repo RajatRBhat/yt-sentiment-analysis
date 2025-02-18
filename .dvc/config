@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = /Users/rajatbhat/temp
+    url = s3://rrb-mlflow-bucket
